@@ -1,0 +1,23 @@
+body {
+    text-align: center; 
+    margin-top: 1em;
+}
+    
+button {
+    margin: 1em;
+}
+
+#resultado {
+        color: green; 
+  
+}
+
+.grafica{
+    width: 80%;
+    height: 40%;
+}
+
+.migrafico{
+    display: flex;
+    justify-content: center;
+}
